@@ -1,0 +1,14 @@
+D:\Ultima Online™ Map Creator\Programs\DLL\Legacy\DLLSource\bin\Debug\Legacy.dll
+D:\Ultima Online™ Map Creator\Programs\DLL\Legacy\DLLSource\bin\Debug\Legacy.pdb
+D:\Ultima Online™ Map Creator\Programs\DLL\Legacy\DLLSource\obj\Debug\Legacy.dll
+D:\Ultima Online™ Map Creator\Programs\DLL\Legacy\DLLSource\obj\Debug\Legacy.pdb
+D:\Ultima Online™ Map Creator\Programs\DLL\Legacy\DLLSource\obj\Debug\Legacy.csprojResolveAssemblyReference.cache
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\bin\Debug\Legacy.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\bin\Debug\Legacy.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\obj\Debug\Legacy.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\obj\Debug\Legacy.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\bin\Debug\Legacy.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\bin\Debug\Legacy.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\obj\Debug\Legacy.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\obj\Debug\Legacy.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Legacy\DLLSource\obj\Debug\Legacy.csprojResolveAssemblyReference.cache

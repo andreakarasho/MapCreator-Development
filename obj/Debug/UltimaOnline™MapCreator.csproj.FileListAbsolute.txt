@@ -1,0 +1,4 @@
+F:\Development\Map Creator\Map Creator\Source Code\bin\Debug\UltimaOnline™MapCreator.exe.config
+F:\Development\Map Creator\Map Creator\Source Code\bin\Debug\SourceCode.exe.config
+F:\Development\Map Creator\Map Creator\Source Code\obj\Debug\SourceCode.exe
+F:\Development\Map Creator\Map Creator\Source Code\obj\Debug\SourceCode.pdb

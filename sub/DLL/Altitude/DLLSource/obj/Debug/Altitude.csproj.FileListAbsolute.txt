@@ -1,0 +1,13 @@
+D:\Ultima Online™ Map Creator\Programs\DLL\Altitude\DLLSource\bin\Debug\Altitude.dll
+D:\Ultima Online™ Map Creator\Programs\DLL\Altitude\DLLSource\bin\Debug\Altitude.pdb
+D:\Ultima Online™ Map Creator\Programs\DLL\Altitude\DLLSource\obj\Debug\Altitude.dll
+D:\Ultima Online™ Map Creator\Programs\DLL\Altitude\DLLSource\obj\Debug\Altitude.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\bin\Debug\Altitude.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\bin\Debug\Altitude.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\obj\Debug\Altitude.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\obj\Debug\Altitude.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\bin\Debug\Altitude.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\bin\Debug\Altitude.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\obj\Debug\Altitude.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\obj\Debug\Altitude.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\DLL\Altitude\DLLSource\obj\Debug\Altitude.csprojResolveAssemblyReference.cache

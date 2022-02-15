@@ -1,0 +1,8 @@
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\bin\Debug\ConvertTheMapToBMP.exe
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\bin\Debug\ConvertTheMapToBMP.exe.config
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\obj\Debug\ConvertTheMapToBMP.ConvertTheMapToBMP.resources
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\obj\Debug\ConvertTheMapToBMP.Properties.Resources.resources
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\obj\Debug\ConvertTheMapToBMP.csproj.GenerateResource.Cache
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\obj\Debug\ConvertTheMapToBMP.exe
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\obj\Debug\ConvertTheMapToBMP.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\ThirdPartyApplications\ConvertTheMapToBMP\EXESource\bin\Debug\ConvertTheMapToBMP.pdb

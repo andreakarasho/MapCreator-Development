@@ -1,0 +1,69 @@
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\CompileYourNewMap.exe.config
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\CompileYourNewMap.exe
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\CompileYourNewMap.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Altitude.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Logger.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Terrain.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Transition.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Ultima.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Altitude.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Logger.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Terrain.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Transition.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\Ultima.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.csprojResolveAssemblyReference.cache
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.CompileYourNewMap.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.NotificationAlertOff.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.NotificationAlertOn.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.Properties.Resources.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.csproj.GenerateResource.Cache
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.exe
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\obj\Debug\CompileYourNewMap.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\UltimaOnlineMapCreator.exe
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewFacet\EXESource\bin\Debug\UltimaOnlineMapCreator.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\CompileYourNewMap.exe.config
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\CompileYourNewMap.exe
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\CompileYourNewMap.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Altitude.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Logger.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Terrain.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Transition.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\UltimaOnlineMapCreator.exe
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Ultima.dll
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\UltimaOnlineMapCreator.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Altitude.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Logger.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Terrain.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Transition.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Ultima.pdb
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.csprojResolveAssemblyReference.cache
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.CompileYourNewMap.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.NotificationAlertOff.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.NotificationAlertOn.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.Properties.Resources.resources
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.csproj.GenerateResource.Cache
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.exe
+F:\Development\Map Creator\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\CompileYourNewMap.exe.config
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\CompileYourNewMap.exe
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\CompileYourNewMap.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Altitude.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Logger.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Terrain.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Transition.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\UltimaOnlineMapCreator.exe
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Ultima.dll
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\UltimaOnlineMapCreator.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Altitude.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Logger.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Terrain.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Transition.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\bin\Debug\Ultima.pdb
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.csprojResolveAssemblyReference.cache
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.CompileYourNewMap.resources
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.NotificationAlertOff.resources
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.NotificationAlertOn.resources
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.Properties.Resources.resources
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.csproj.GenerateResource.Cache
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.exe
+F:\A.A.S.R\Development\Map Creator\Source Code\sub\EXE\CompileYourNewMap\EXESource\obj\Debug\CompileYourNewMap.pdb
