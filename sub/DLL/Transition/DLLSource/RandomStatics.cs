@@ -176,8 +176,8 @@ namespace Transition
                     VBMath.Randomize();
                     if ((int)Math.Round((double)Conversion.Int(unchecked(100f * VBMath.Rnd()))) <= this.m_Freq)
                     {
-                        int index = (int)Math.Round((double)unchecked((float)Conversion.Int(checked(this.m_Random.Count - 1)) * VBMath.Rnd())) + 1;
-                        ((RandomStaticCollection)this.m_Random[index]).RandomStatic(X, Y, Z, StaticMap);
+                        int index = (int)Math.Round((double)unchecked((float)Conversion.Int(checked(this.m_Random.Count - 1)) * VBMath.Rnd()));
+                        ((RandomStaticCollection)this.m_Random[index % m_Random.Count]).RandomStatic(X, Y, Z, StaticMap);
                     }
                 }
             }
