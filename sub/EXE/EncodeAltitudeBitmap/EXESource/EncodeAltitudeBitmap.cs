@@ -53,7 +53,7 @@ namespace EncodeAltitudeBitmap
 
         private async void MenuMake_Click(object sender, EventArgs e)
         {
-            Progress<int> progress = new Progress<int> ( i => { ProgressBar1.Value = i; } );
+            Progress<int> progress = new Progress<int> ( i => { ProgressBar1.Value = Math.Abs(i); } ); // TODO: temporary fix, i didn't get why it put -73
             Progress<string> logger = new Progress<string>(i => { iLogger.LogMessage(i); });
             Task resetProgress = new Task(() => {Thread.Sleep(1000); ((IProgress<int>)progress).Report(0);});
             await Task.Run(() => EncodeAltitudeBitmapHelper.MakeAltitudeImage(ProjectPath.Text, TerrainFile.Text, AltitudeFile.Text, iAltitude, iTerrain, progress, logger)).ContinueWith(c => resetProgress.Start());         
